@@ -1,4 +1,4 @@
-# Jan 22nd Sonder
+# Jan 22nd - Sonder
 This is a narrative game centering the experience of sonder, a realization that every person on the planet is
 an individual with an existence as rich and complex as oneself.
 
