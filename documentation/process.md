@@ -18,3 +18,8 @@ good to go. I started by imagining the scene and sketching a bit, and then I cre
 I don't feel like I gave this project the love I should, so I'd love to repurpose the idea for another project because the subject intrigues me. 
 The experience of sonder is an important piece of the process of developing a nuanced, empathetic view of the humans around us, and I would love
 to see how a game can enhance and complicate it.
+
+# Jan 29th
+This is the week I was supposed to play around in Unity to get a feel for it. I’m having issues with storage, so Unity isn’t on my machine yet, but I’ll update this in a few days once I get that resolved.
+
+So far, I’ve gotten to explore Unity on the school computer and through tutorials. I’m impressed by the number of possibilities that the engine offers and am eager to learn more.
