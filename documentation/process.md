@@ -29,6 +29,7 @@ For this week, I prototyped a segment of a game idea I've been holding onto.
 
 ## A bit about the game
 <img width="612" height="792" alt="image" src="https://github.com/user-attachments/assets/5a8926dc-07c9-4c1c-a030-d7cb9ed9f257" />
+
 It's a game concept I started exploring before starting my degree. The idea and the world I created feel very atmospheric and cool, but I always wondered if the game would really be engaging to players.
 The gameplay is essentially a puzzle/survival hybrid. After years of a relentless winter that refuses to go away, the main character's community have all left for a warmer climate.
 The protagonist is indigenous to this land, and resists departing, no matter how harsh and eternal the winter seems to be. He is then left all alone to fend for himself, and his only
