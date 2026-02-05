@@ -23,3 +23,8 @@ to see how a game can enhance and complicate it.
 This is the week I was supposed to play around in Unity to get a feel for it. I’m having issues with storage, so Unity isn’t on my machine yet, but I’ll update this in a few days once I get that resolved.
 
 So far, I’ve gotten to explore Unity on the school computer and through tutorials. I’m impressed by the number of possibilities that the engine offers and am eager to learn more.
+
+# Feb 5th
+For this week, I prototyped a segment of a game idea I've been holding onto. 
+<img width="612" height="792" alt="image" src="https://github.com/user-attachments/assets/5a8926dc-07c9-4c1c-a030-d7cb9ed9f257" />
+
