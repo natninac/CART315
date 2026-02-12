@@ -45,3 +45,35 @@ I also sketched out some maps to see what kind of information should be shown on
 
 At last, I drafted the first mission (the onboarding) of the game using Twine. This helped me figure out different pathways (winning, losing, decisions), which are the start of figuring out how to make
 this idea more fun.
+
+# Feb 12th
+For this week, I attempted to get started with some Unity mechanics. The prototyping goal was to start fleshing out what my game idea would play like and if it could be interesting/playable.
+I decided to work on a navigation feature. In the game, the main character only has two wayfinding methods: paper maps and radio direction finding. RDF is only used nowadays by hobbyists or 
+for more hardcore tasks like military intelligence and search & rescue. My character, however, lives in a post-apocalyptic world in which radio signals are his only option.
+
+## How this looks in the game
+RDF opens up interesting gameplay options, by complexifying communication and navigation if the equipment is faulty. For example, if a tower is down, the player won't be able to find it on their digital map, because it might not be 
+sending any signals.
+
+I wanted to start the exploration by prototyping what happens when the player moves too far from a tower. It seems quite simple but I am quite rusty from coding, so this took a while:
+
+<img width="368" height="344" alt="image" src="https://github.com/user-attachments/assets/b5988e2f-7f9f-417f-968c-b57a112928a6" />
+
+Player is the square, tower is the circle.
+
+<img width="473" height="372" alt="image" src="https://github.com/user-attachments/assets/eb67f3c9-48fd-4c95-a3e8-ac3fe7e6e1be" />
+
+As the player moves further away, the tower loses opacity.
+
+<img width="617" height="467" alt="image" src="https://github.com/user-attachments/assets/528d6659-e0b5-41fd-afd5-a9d7591295dc" />
+Until it completely disappears
+
+## Future use
+I plan on continuing to use this project and build on top of it, or simply reuse the mechanics. I'll be adding more towers and different effects, because I am realizing that loss of opacity
+isn't a very realistic phenomenon. In the real world, the location might become visibly unstable or flickery. 
+
+
+
+
+
+
