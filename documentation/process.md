@@ -58,12 +58,15 @@ sending any signals.
 I wanted to start the exploration by prototyping what happens when the player moves too far from a tower. It seems quite simple but I am quite rusty from coding, so this took a while:
 
 <img width="368" height="344" alt="image" src="https://github.com/user-attachments/assets/b5988e2f-7f9f-417f-968c-b57a112928a6" />
+
 Player is the square, tower is the circle.
 
 <img width="473" height="372" alt="image" src="https://github.com/user-attachments/assets/eb67f3c9-48fd-4c95-a3e8-ac3fe7e6e1be" />
+
 As the player moves further away, the tower loses opacity.
 
 <img width="617" height="467" alt="image" src="https://github.com/user-attachments/assets/528d6659-e0b5-41fd-afd5-a9d7591295dc" />
+
 Until it completely disappears
 
 ## Future use
