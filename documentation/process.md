@@ -73,6 +73,25 @@ Until it completely disappears
 I plan on continuing to use this project and build on top of it, or simply reuse the mechanics. I'll be adding more towers and different effects, because I am realizing that loss of opacity
 isn't a very realistic phenomenon. In the real world, the location might become visibly unstable or flickery. 
 
+# Feb 19th
+
+I AM NOT DONE; MUST WORK ON IT THIS WEEKEND
+
+I want to work on some role prototyping for the game. I want to come up with a journey flow (albeit a very vague one) to help me understand the user's path from beginning to end.
+
+## Benchmarking
+
+I currently do not have much time to do this but it should absolutely be done!!
+
+## Flow chart
+
+I started out making a flowchart of the onboarding of the experience. This is helping me flesh out possible confusions that could be felt by the player.
+I am realizing that I should give this more thought before moving on with other prototypes; may they be mechanical or aesthetic.
+
+The document is moreso turning into a masterdoc of various explorations; no, it's not as structured as I planned it to be but I think this is a good start? (Good this to mention
+to prof)
+
+[figma link](https://www.figma.com/board/8hUBYyWaLF04XjrdbeYOw0/Untitled?node-id=5-40&t=InSxvvrwcbyvdsY5-1)
 
 
 
