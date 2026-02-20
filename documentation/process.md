@@ -93,6 +93,9 @@ to prof)
 
 [figma link](https://www.figma.com/board/8hUBYyWaLF04XjrdbeYOw0/Untitled?node-id=5-40&t=InSxvvrwcbyvdsY5-1)
 
+# Feb 26th
+
+To do: focus on design values, systems, and player experience
 
 
 
