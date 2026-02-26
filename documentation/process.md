@@ -93,9 +93,40 @@ to prof)
 
 [figma link](https://www.figma.com/board/8hUBYyWaLF04XjrdbeYOw0/Untitled?node-id=5-40&t=InSxvvrwcbyvdsY5-1)
 
-# Feb 26th
+# Feb 26th: look/feel prototype
 
-To do: focus on design values, systems, and player experience
+*To do: focus on design values, systems, and player experience.*
+
+This week, I teamed up with Alex & Nadia to join their game idea: a game about the experience of disability. The core story seems to still be fluctuating, but we all
+agree on striving to use the medium of video games to extract empathy from the player towards disability as a subject. As it is a tricky subject, much of our talks centered the 
+ethics and optics of our story, gameplay and image style. 
+
+## Lesson 1: It is a Messy Subject
+
+Disability is a broad concept that encompasses more content, ideas, definitions than I can speak for. I have no experience with it in my personal life (yet), and am a bit uneducated
+on the best course of action for abording the subject. At this stage, this has meant a lot of bouncing off opinions with my teammates. Beyond pure conversation, we created a shared Google Document, Figma files and a groupchat to keep log of ideas. 
+
+## Things that are inspiring us
+
+### Other games
+These are the games we are benchmarking to understand what has been done insofar as representing mental and physical disability in videogames. Some of these are more overt than others
+but all seem to make a statement about issues of accessibility, acceptance and overcoming.
+<img width="326" height="733" alt="image" src="https://github.com/user-attachments/assets/f59f06cc-edf5-40df-9379-013c21d66f6f" />
+
+### Literature
+We referenced literature that tackles subjects of alienation, isolation and mental health.
+
+- Harrison Bergeron, Kurt Vonnegut
+- Flowers for Algernon, Daniel Keyes
+- Metamorphosis, Kafka
+
+
+### Painting
+We did some collective moodboarding, which was heavily inspired by expressionism and impressionism.
+<img width="922" height="482" alt="image" src="https://github.com/user-attachments/assets/faa3e358-3675-4d59-829c-f9e677b42c3d" />
+
+
+
 
 
 
