@@ -106,7 +106,15 @@ ethics and optics of our story, gameplay and image style.
 Disability is a broad concept that encompasses more content, ideas, definitions than I can speak for. I have no experience with it in my personal life (yet), and am a bit uneducated
 on the best course of action for abording the subject. At this stage, this has meant a lot of bouncing off opinions with my teammates. Beyond pure conversation, we created a shared Google Document, Figma files and a groupchat to keep log of ideas. 
 
-## Things that are inspiring us
+## Design Values
+### Empathy
+Like I mentioned, one of our design goals will be to induce empathy (hopefully in an intense form) in the player towards the main character, which represents the broader population of disabled people.
+### Expression
+Expression ties into our empathy goal. Emotion is a way to unlock empathy from the player.
+### Storytelling
+Efficient storytelling will emphasize the former two values.
+
+## Precedents
 
 ### Other games
 These are the games we are benchmarking to understand what has been done insofar as representing mental and physical disability in videogames. Some of these are more overt than others
