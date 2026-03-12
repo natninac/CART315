@@ -133,6 +133,51 @@ We referenced literature that tackles subjects of alienation, isolation and ment
 We did some collective moodboarding, which was heavily inspired by expressionism and impressionism.
 <img width="922" height="482" alt="image" src="https://github.com/user-attachments/assets/faa3e358-3675-4d59-829c-f9e677b42c3d" />
 
+# March 12th
+
+This week I met up with my teammates and we talked about game mechanics and story.
+We made decisions about these things:
+
+- Map layout
+- Number and sequence of levels
+- 3D models
+- Scenes
+
+I then had the duty of working on narrative elements, like a character page and some dialogue brainstorming.
+
+## Wtf is narrative design
+
+I was pretty eager to take on the narrative design task but I'm not a writer and I am not yet sure what the role entails.
+
+[This article helped me figure some stuff out](https://johnnemann.medium.com/narrative-design-101-what-is-narrative-design-d14c0ecc391f)
+
+It highlights that the role of narrative designer is to glue game elements and story together. We don't really have a story yet though, so I 
+started working on that.
+
+We knew we wanted different dialogues to occur during the game, all centering other people's reactions to one's disability. So I started with a figma file
+that separated the dialogues into different categories.
+<img width="1178" height="819" alt="image" src="https://github.com/user-attachments/assets/1d503f0c-0d0c-452d-a616-241e5fa01ed2" />
+
+It was kinda helpful, but felt unispiring without knowing who our character really is or how they react. A lot of these dialogue options seem both
+basic and random.
+
+So next step was building a character sheet. A lot of information on there is placeholder stuff, but it did help the writing.
+<img width="313" height="880" alt="image" src="https://github.com/user-attachments/assets/636cc8b2-4238-4668-a165-201b814f574f" />
+
+Understanding that our character is a person with specific fears, flaws, wants, etc. complexifies him and gives us deeper story paths.
+
+## The draft
+
+I wrote a first draft of the story right after that. 
+
+[Draft link](https://docs.google.com/document/d/1EsOVGIa6VVu_pUHBYe52BQZ5OG-lIwbcE0FDkxiMCf0/edit?usp=sharing)
+
+This will allow me to show it to others and get reviews on the consistency of the story.
+
+
+
+
+
 
 
 
