@@ -174,7 +174,53 @@ I wrote a first draft of the story right after that.
 
 This will allow me to show it to others and get reviews on the consistency of the story.
 
+# Game Analysis - Disco Elysium
 
+I'm admittedly not the biggest gamer but that is only because I believe I have already played the best game in the universe, Disco Elysium. 
+I talk about it excessively (almost comedically) but I'll use this assignment as an opportunity to analyze what I believe makes it so great (and what could be better).
+So far I've identified: 
+1. The story
+2. The skill system
+3. Checks
+4. Failure
+
+## 1. The story
+Starting with the most obvious one but only because it's really important!!! Disco Elysium was first written as a book, and later incorporated into a game.
+Despite this, I never felt like any game mechanics were an "add-on" for the sake of changing mediums. I really appreciate when a game uses the story as the driving
+mechanic, and I feel like DE did that beautifully. 
+
+## 2.  The skill system
+I really like that the skills talk to you in this game. In other games, they are often just static descriptions with a points system.
+Having an internal dialogue of an amalgamation of all the facets of the main character's personality makes a lot of sense to me in a story-based game where
+you are learning about the character as you go. 
+
+## 3. Checks
+There are two types of checks: active and passive. The active ones are passed through the roll of a dice and can affect the story, whether they are successful or not.
+The passive ones happen without rolling a dice through regular dialogue. These only happen if enough skill points have been put into the relevant skill (e.g. the logic skill
+notices something logic related and mentions it during dialogue with an npc)
+
+## 4. Failure
+Failure acts as a catalyst for certain parts of the story and dialogue options. I find it interesting that failing at something might lead to positive outcomes throughout the game.
+
+# The bad parts
+It *is* my favourite, so this is difficult, but I've identified two things that could've been done better.
+
+1. Skill introduction
+2. Failure
+
+## 1. Skill introduction
+I didn't really understand the skills as much as I would've liked to at the beginning, which led me to neglect them during my first playthrough. It's not the worst thing, but I feel
+like they prioritized the theatrics of the skill dialogue over legibility. This made the onboarding a bit confusing.
+
+## 2. Failure
+Yes, I love it, but sometimes I felt like the failure mechanics could've been pushed further. Often times, I found that the failure didn't change the story much. This was probably less of a 
+priority to them, as they were quite time-constrained in the making of the game.
+
+# What I would use
+
+## Externalizing psychology
+What I really appreciated about this game was the way that the main character's psychology constantly seeped out into the game. Making elements of his personality into tangible game mechanics
+added to the experience as I felt like I was learning about a new universe, but also a new person. 
 
 
 
