@@ -224,6 +224,8 @@ added to the experience as I felt like I was learning about a new universe, but 
 
 # March 19th
 
+[**SCRIPT LINK**](https://docs.google.com/document/d/1EsOVGIa6VVu_pUHBYe52BQZ5OG-lIwbcE0FDkxiMCf0/edit?usp=sharing)
+
 ## Overview
 
 This week was about re-iterating on the story, after a conversation with my teammate. Last week, I experimented with a different avenue than planned while writing the script, and we decided it was important to have a version that represents the original idea.
