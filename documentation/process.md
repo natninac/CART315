@@ -222,6 +222,68 @@ priority to them, as they were quite time-constrained in the making of the game.
 What I really appreciated about this game was the way that the main character's psychology constantly seeped out into the game. Making elements of his personality into tangible game mechanics
 added to the experience as I felt like I was learning about a new universe, but also a new person. 
 
+# March 19th
+
+## Overview
+
+This week was about re-iterating on the story, after a conversation with my teammate. Last week, I experimented with a different avenue than planned while writing the script, and we decided it was important to have a version that represents the original idea.
+
+## Goals this Week
+
+These are the questions I was left to wrestle with:
+
+ - What would a world in which everyone is disabled except the protagonist look like?
+ - How to best make players empathize with the experience of disabled people without falling into harmful tropes or stereotypes?
+
+## Prototype Type
+
+This week is another role prototype. We are testing a new narrative and seeing if it holds up when pushed through those six scenes. As a story-based game, it is important for us to do that
+
+## Fidelity Level
+
+The script is mid-fidelity right now, as we don't have the whole dialogues but we have all the scenes despite some placeholders.
+
+## Script Development 
+
+We wrote and revised a full six-scene script across two versions:
+
+**Version A** An inverted world where disability is the norm and Jordan
+is able-bodied in a world not built for him. Ramps are default, life follows a slower rhythm, people are more mindful of loud noises. This world is somewhat utopian, but the protagonist is still ostracized.He's too big, too fast and comes off too strong. The alienation he experiences mirrors what disabled people experience in our world due to living in a non-accomodating world.
+
+**Version B** Jordan is the character with a disability, which is never
+explicitly named. The game follows him through a single day. The reveal
+happens in the final room when he sees his reflection for the first time.
+The disability is present in every interaction through subtext: in the way
+systems accommodate other people, in the language NPCs use, in the spaces
+he's not welcome.
+
+Both versions were written in full. The team is currently split on which
+direction to commit to. I personally am leaning towards version B, as abstraction of the character's disability seems like a more poignant way to communicate the story and I feel like the metaphor gets a bit lost in version A.
+
+## Visual Direction
+
+We're also revisiting our visual direction to potentially incorporate brutalist imagery. I am quite inspired by Valentin Starchev, a Bulgarian artist who has this brutalist way of sculpting the body. <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/87c1ee01-71b1-4942-a3e4-510e2ed9a4ac" /> <img width="1763" height="1520" alt="image" src="https://github.com/user-attachments/assets/f3100a2e-3a1c-4414-b473-725c946f6029" />
+
+We were thinking of building the NPCs in a similar style. The animation would then be choppier, angular and mechanical. The main character will of course be built in a very different way; softer, with a more fluid animation style. It could serve as a metaphor in either version: in Version B, his softness reads as vulnerability; in version A, it reads as increased agility.
+
+This is to be decided.
+
+## To figure out by next week
+
+- Version A or B
+- Map navigation
+- Visual style
+
+## What I learned
+
+- Writing alienation subtly is harder than writing it overtly.
+- Changing a main narrative quality means you're changing the whole player experience.
+
+## Reflection
+
+Despite being a long process, writing both versions in full was very useful. We can now concretely debate two different outcomes for our game. Seeing version A on the page made me realize how much world-building it requires. Everything needs to be redesigned from different assumptions. It can be done, but might be a lot of commitment for a short game.
+
+Version B might be easier but I think my team is worried that the metaphor won't be as gripping. The question for this week is whether we believe the player can understand the subtext we've given.
 
 
 
