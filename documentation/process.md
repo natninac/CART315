@@ -327,6 +327,18 @@ This one could be kinda funny to represent the character's frustration with the 
 
 I already introduced this one, but I'd really like to play with it. It humanizes the character a lot and allows the player to put themselves in his shoes (because they see all his thoughts).
 
+## Other ideas
+- Text hierarchy (represent the MC's self-erasure and alienation by making his text smaller, less important)
+- Overlapping dialogue, thoughts intertwining
+
+## Lessons
+
+Biggest thing I've learned while doing this is that the rules of UX are still important, even when you're trying to break them. 
+
+One one hand, that's because understanding why certain rules exist (ie text hierarchy) helps you know when it's impactful to break them.
+
+But also, it'll always be important to not make your game completely inaccessible in the name of novel UX. Certain of my ideas like low contrast text are interesting but might make someone completely give up on the game if it causes physical discomfort. It would be a shame if a game about disability subsequently became ableist by trying to be edgy.
+
 
 
 
