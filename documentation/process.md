@@ -287,6 +287,46 @@ Despite being a long process, writing both versions in full was very useful. We 
 
 Version B might be easier but I think my team is worried that the metaphor won't be as gripping. The question for this week is whether we believe the player can understand the subtext we've given.
 
+# March 26th
+
+Last week, we had a conversation with our professor and decided to scale down our final prototype to allow ourselves to really explore different modes of interaction and storylines.
+
+This is our decided deliverable:
+
+<img width="798" height="183" alt="image" src="https://github.com/user-attachments/assets/ea928582-2f24-44a6-8c67-49b9c615215c" />
+
+So I went on to explore as many UI options as possible. I'm forcing myself to do at least 20, just to make sure we have as many as possible to choose from and build upon.
+
+Looking for inspiration, I stumbled upon [**this**](https://www.nathalielawhead.com/candybox/on-ui-design-using-ui-as-a-means-to-tell-a-story-convey-emotion-create-personality-an-in-depth-look) article by Nathalie Lawhead, creator of Everything Is Going to Be Ok. I was fascinated and, yes, inspired by the way she uses UI to confuse and frustrate the player. Through Reading the article, i got the idea of making the character's thoughts visible on the screen when they hover the talking bubble of the NPC, kinda reflecting how we scrutinize ourselves (and sometimes others) before speaking.
+
+I have now made 13, and am running out of inspiration so I'll explain which ones are my favourite so far and why.
+
+## Favorites
+
+### Lingering speech bubble
+
+<img width="715" height="452" alt="image" src="https://github.com/user-attachments/assets/3e50a6ce-9c1f-4f53-9834-819659b2823e" />
+
+One of my teammates (Alex?) had the idea of a forced interaction with NPCs where the speech bubble just locks itself on the player's screen without being triggered voluntarily. The idea of letting a conversation linger is similar, where after an interaction with an NPC has ended, the player is forced to continue seeing something they said at the corner of the screen. This reflects how certain comments can have a long-term effect on someone's life. It could be accompanied with restrictions on the player to show how discouraging it makes the character feel.
+
+### Resistance
+
+<img width="1021" height="453" alt="image" src="https://github.com/user-attachments/assets/bd552fa8-6c82-460b-89ff-01373cc13d6b" />
+
+This constricts the player in a similar way as the previous one by putting resistance against the cursor when the player tries to click the speech bubble. It could be used in a moment where the character doesn't know what to say, either by fear of being judged or because they don't know how to respond to a comment. The resistance could become a mini-game in itself, where the player must be able to click the rectangle before a certain amout of time passes. If they're not able to, the character just doesn't say anything.
+
+### Finger
+
+<img width="1043" height="555" alt="image" src="https://github.com/user-attachments/assets/dab7dd22-0e17-4cd9-9c2e-8a995ac7d722" />
+
+This one could be kinda funny to represent the character's frustration with the people around them. I designed the main character's personality to be quite reserved and afraid to speak up... So a sequence in which the cursor turns into a middle finger towards a character could represent their inner anger more realistically than if we made him crash out completely.
+
+### Thoughts
+
+<img width="720" height="445" alt="image" src="https://github.com/user-attachments/assets/de53730c-0f4a-45e4-9b5b-a4d32c2a5729" />
+
+I already introduced this one, but I'd really like to play with it. It humanizes the character a lot and allows the player to put themselves in his shoes (because they see all his thoughts).
+
 
 
 
