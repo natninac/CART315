@@ -297,7 +297,7 @@ This is our decided deliverable:
 
 So I went on to explore as many UI options as possible. I'm forcing myself to do at least 20, just to make sure we have as many as possible to choose from and build upon.
 
-Looking for inspiration, I stumbled upon [**this**](https://www.nathalielawhead.com/candybox/on-ui-design-using-ui-as-a-means-to-tell-a-story-convey-emotion-create-personality-an-in-depth-look) article by Nathalie Lawhead, creator of Everything Is Going to Be Ok. I was fascinated and, yes, inspired by the way she uses UI to confuse and frustrate the player. Through Reading the article, i got the idea of making the character's thoughts visible on the screen when they hover the talking bubble of the NPC, kinda reflecting how we scrutinize ourselves (and sometimes others) before speaking.
+Looking for inspiration, I stumbled upon [**this**](https://www.nathalielawhead.com/candybox/on-ui-design-using-ui-as-a-means-to-tell-a-story-convey-emotion-create-personality-an-in-depth-look) article by Nathalie Lawhead, creator of Everything Is Going to Be Ok. I was fascinated and, yes, inspired by the way they use UI to confuse and frustrate the player. Through Reading the article, i got the idea of making the character's thoughts visible on the screen when they hover the talking bubble of the NPC, kinda reflecting how we scrutinize ourselves (and sometimes others) before speaking.
 
 I have now made 13, and am running out of inspiration so I'll explain which ones are my favourite so far and why.
 
@@ -338,6 +338,80 @@ Biggest thing I've learned while doing this is that the rules of UX are still im
 One one hand, that's because understanding why certain rules exist (ie text hierarchy) helps you know when it's impactful to break them.
 
 But also, it'll always be important to not make your game completely inaccessible in the name of novel UX. Certain of my ideas like low contrast text are interesting but might make someone completely give up on the game if it causes physical discomfort. It would be a shame if a game about disability subsequently became ableist by trying to be edgy.
+
+# **April, post-reflectively**
+
+I fell off from my journaling game since my last March entry, but I wanted to reflect on the work I did anyway now that (most of) my schoolwork is done.
+
+# April 2nd
+
+For that week, I had made a UI on Figma in hopes of getting closer to a finalized version of our game interface. I explored fonts, layouts and some of the different dialogue options I created in the past week. 
+
+## Game UI Database
+
+Game UI Database was my favourite finding that week. It's such a great resource that is packed with game screenshots, many of them categorized by function (dialogue, main menu, chat box, etc.). I spent about an hour looking at many of the different dialogue options to inspire me.
+
+This process was still a bit intimidating because I did not know how this would translate into a Unity project. I've never worked on Unity specifically, especially to do UI, so I kept it pretty barebones and mostly used it as an exploration of components
+
+## Figma
+
+<img width="665" height="471" alt="image" src="https://github.com/user-attachments/assets/81c92cdd-4df4-4f1e-9db8-e4337e25c2a6" />
+<img width="910" height="462" alt="image" src="https://github.com/user-attachments/assets/6bb7731f-8950-412d-b6fc-edfaac4f5e39" />
+
+I still wasn't exactly sure what me and my team were going for in terms of dialogue and style, so I explored different color options from the palette and figured out sizing for the different components before moving onto Unity.
+
+The original plan was to create all UI components 1:1 and simply replicating them on the Unity project, but the workflow seemed so tricky that, even with [tutorials](https://www.youtube.com/watch?v=OrmBi6IFQr0), I just wanted to jump into the software and not expect to be able to make perfect buttons.
+
+## Reflections
+
+I was obviously just starting out with this process, but in the future, I would focus on creating interesting sprites for buttons instead of investing so much time on layouts and colors. It's always useful to create these wireframe-style pages, but my time would've been better spent focusing on something else and really polishing things like radius, font and colors in Unity itself. The next workflow I'd like to try out is user flow > quick wireframe > buttons > Unity > polished wireframes with buttons implemented
+
+# April 9th
+
+That week, I implemented the main UI into the game project on Unity. I used the UI Toolkit by following [this tutorial](https://www.youtube.com/watch?v=_jtj73lu2Ko). 
+
+Getting familiar with the interface and coding took a really long time, but I ended up with a functional result.
+
+<img width="473" height="428" alt="image" src="https://github.com/user-attachments/assets/2fab1e24-0835-4d28-b01b-f241f934927d" />
+<img width="593" height="113" alt="image" src="https://github.com/user-attachments/assets/3dec003d-d013-49e9-9903-8c92636b7cb1" />
+
+These are the main menu and dialogue text. I changed the visual style and colors a bit, but it's still pretty plain. I just didn't have time to go deeper and complexify the look of the prototype. 
+
+It was also hard to tell what the visual style of the game would end up looking like because much of our work was still untextured and moslty used placeholders.
+
+## Code
+
+For the minimal amount of coding I did, I implemented one dialogue option, starting with the first interaction of the game, where the main character looks at a statue and starts a conversation with an NPC. We had planned on building more interactions with other NPCs but they were not in the file yet so I started by just implementing a dialogue structure that could be built upon in future iterations.
+
+The way that it works is through a collider box around the statue object. Once the player is within the box, the dialogue can start by pressing E. I used [this tutorial](https://www.youtube.com/watch?v=JnlQd04rVok).
+
+## Reflections
+
+I'm not sure how much use I'll get out of Unity in the foreseeable future, but this was a fun learning experience which definitely increased my confidence in my ability to learn things easily. Hooray!
+
+# Final reflection
+
+I have already mentionned this but the most enriching part of this process really might've been the journaling. The documentation of a process has benefits while it happens, but also much later when revisiting past work. The resources I have accumulated and my reflections around them are 100% going to serve me as I revisit game design. I have also come to really enjoy the process of writing without the need to worry about typos or having to polish my vocabulary.
+
+## Fidelity and Speed
+
+I have known what fidelity means for a long time, but have never really worked with it in mind. Any prototype I've made just had the goal to be as final as possible with the given time. In this class, I sometimes forced myself to do something quick and ugly because the point was not to come up with a final product, but to get ideas out in the most efficient way. What I wish I would've done is to contrast fidelity prototypes. It feels like most of what I've done has been low-fidelity, and although it took some stress off my shoulders, I would've loved to see what was possible with a mid-to-high fidelity iteration. The fast turnaround of each prototype was probably the biggest reason I strayed from higher fidelity work. 
+
+The relationship to fidelity and speed is really interesting. Best way I could represent it is through an equation like Fidelity x Depth = Time. When time-restricted, a designer can choose higher fidelity and shallower depth or a deeper prototype with lower fidelity. The time constant also obviously changes based on skill.
+
+## Collaborative and testing lessons
+
+This project was instructive, although perhaps a bit out of the scope of this class. Because the prototype turnaround was usually a week long, we sometimes had to cut corners and didn't get to flesh out certain avenues that would've been important. We spent a few weeks with design decisions in the air, not always sure how to proceed — and with a subject as important as disability, that felt like a step we couldn't afford to skip. It sometimes felt like we moved forward without enough validation to back up our ideas, which as a UX designer is something I want to be more rigorous about.
+
+## Closing thoughts
+
+This journey was really important for my game design education. Like I said previously, I built a lot of confidence in my ability to just make things by exploring different software. I really liked the Make a Thing week, because it felt so free of constraints and I got to really open my mind conceptually. I'll continue trying this design exploration process and make small things here and there until I find something I really wasnt to push forward more.
+
+
+
+
+
+
 
 
 
